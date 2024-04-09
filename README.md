@@ -1,0 +1,2 @@
+# Repositoriobasico
+repositorio de practica
